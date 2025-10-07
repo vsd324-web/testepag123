@@ -396,16 +396,6 @@
                         <span class="logo-endurox">MEN'S</span>
                         <span class="logo-prime">FORCE</span>
                     </div>
-                    <p>Natural solutions for male enhancement and sexual health improvement. Scientifically researched methods for optimal masculine vitality.</p>
-                    <div class="rating">
-                        <span class="stars">★★★★★</span>
-                        <span>14,000+ Success Stories</span>
-                    </div>
-                </div>
-                
-                <div class="footer-section">
-                    <h3>Disclaimer</h3>
-                    <p>The information provided is for educational purposes only and is not intended as medical advice. Please consult with a healthcare professional before starting any new health regimen. Results may vary between individuals.</p>
                     <div class="copyright">
                         <p>© <?php echo date('Y'); ?> Men's Force. All rights reserved.</p>
                     </div>
